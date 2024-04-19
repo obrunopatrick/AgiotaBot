@@ -35,9 +35,10 @@ Execução
 # Para executar a aplicação, use o seguinte comando:
 
 $ python main.py
+```
 
-Contribuição
-# Contribuições são sempre bem-vindas! 
+### Contribuição
+Contribuições são sempre bem-vindas! 
 
-Licença
-# Distribuído sob a licença MIT.
+### Licença
+istribuído sob a licença MIT.
