@@ -5,8 +5,8 @@ class LoanCalculator(QtWidgets.QWidget):
         super().__init__()
 
         self.setWindowTitle("Calculadora de Empréstimo")
-        self.setGeometry(500, 500, 300, 200)
-        self.setWindowIcon(QtGui.QIcon('C:\\Users\\apatt\\Documents\\VsDocumentos\\AgiotaBot\\icon\\calculadora.png'))
+        self.setGeometry(500, 500, 400, 200)
+        self.setWindowIcon(QtGui.QIcon('C:\\Users\\apatt\\Documents\\VsDocumentos\\AgiotaBot\\calculadora.png'))
 
         self.create_widgets()
         self.set_layout()
