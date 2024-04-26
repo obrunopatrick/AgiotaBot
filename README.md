@@ -23,10 +23,10 @@ Clone este repositório e instale as dependências:
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/seuusuario/seuprojeto.git
+$ git clone https://github.com/obrunopatrick/AgiotaBot.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd seuprojeto
+$ cd AgiotaBot
 
 # Instale as dependências
 $ pip install PyQt5
