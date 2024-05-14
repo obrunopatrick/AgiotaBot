@@ -3,11 +3,9 @@ from PyQt5 import QtWidgets, QtGui
 class LoanCalculator(QtWidgets.QWidget):
     def __init__(self):
         super().__init__()
-
         self.setWindowTitle("Calculadora de Empréstimo")
         self.setGeometry(500, 500, 400, 200)
         self.setWindowIcon(QtGui.QIcon('calculadora.png'))
-
         self.create_widgets()
         self.set_layout()
 
