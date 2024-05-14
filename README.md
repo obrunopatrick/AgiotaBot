@@ -41,4 +41,4 @@ $ python main.py
 Contribuições são sempre bem-vindas! 
 
 ### Licença
-istribuído sob a licença MIT.
+Distribuído sob a licença MIT.
